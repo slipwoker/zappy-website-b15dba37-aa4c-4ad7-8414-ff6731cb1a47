@@ -2,13 +2,13 @@
 
 A fun, vibrant Israeli school vacation countdown website aimed at students. The site features a large central countdown number, automatic calculation of remaining school days (excluding Saturdays, and optionally Fridays), school-type selection (elementary, middle, high school) with different vacation start dates, a summer-themed colorful design with smooth animations, and a motivational message to build excitement for the upcoming summer break.
 
-Source: https://-b15dba37.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ספור את הימים לחופש הגדול — ימים לחופש
 
-URL: https://-b15dba37.zappy5.app
+URL: https://example.com
 Description: כמה ימים נשארו עד החופש הגדול? גלה עכשיו עם מונה הימים החכם שלנו לתלמידי יסודי, חטיבה ותיכון. כלי לימודי מהנה שמחשב אוטומטית את ימי הלימודים שנותרו ומעלה את ההתרגשות לקראת הקיץ!
 
 ספור את הימים לחופש הגדול — ימים לחופש
@@ -727,7 +727,7 @@ Description: כמה ימים נשארו עד החופש הגדול? גלה עכ�
 
 ## מדיניות פרטיות
 
-URL: https://-b15dba37.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -994,7 +994,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-b15dba37.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1270,7 +1270,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-b15dba37.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

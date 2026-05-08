@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://-b15dba37.zappy5.app
+https://example.com
 כמה ימים נשארו עד החופש הגדול? גלה עכשיו עם מונה הימים החכם שלנו לתלמידי יסודי, חטיבה ותיכון. כלי לימודי מהנה שמחשב אוטומטית את ימי הלימודים שנותרו ומעלה את ההתרגשות לקראת הקיץ!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b15dba37.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b15dba37.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b15dba37.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -56,6 +56,6 @@ education / tools for students
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b15dba37.zappy5.app/sitemap.xml
-- Robots: https://-b15dba37.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b15dba37.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

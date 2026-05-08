@@ -1,0 +1,61 @@
+# ימים לחופש — Generative Engine Optimization Map
+
+> A fun, vibrant Israeli school vacation countdown website aimed at students. The site features a large central countdown number, automatic calculation of remaining school days (excluding Saturdays, and optionally Fridays), school-type selection (elementary, middle, high school) with different vacation start dates, a summer-themed colorful design with smooth animations, and a motivational message to build excitement for the upcoming summer break.
+
+---
+
+## Pages
+
+### בית
+https://-b15dba37.zappy5.app
+כמה ימים נשארו עד החופש הגדול? גלה עכשיו עם מונה הימים החכם שלנו לתלמידי יסודי, חטיבה ותיכון. כלי לימודי מהנה שמחשב אוטומטית את ימי הלימודים שנותרו ומעלה את ההתרגשות לקראת הקיץ!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b15dba37.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b15dba37.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b15dba37.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ימים לחופש
+A fun, vibrant Israeli school vacation countdown website aimed at students. The site features a large central countdown number, automatic calculation of remaining school days (excluding Saturdays, and optionally Fridays), school-type selection (elementary, middle, high school) with different vacation start dates, a summer-themed colorful design with smooth animations, and a motivational message to build excitement for the upcoming summer break.
+
+## Services/Products
+- ספירה לאחור לחופש הגדול לפי סוג בית ספר (יסודי / חטיבה / תיכון)
+- מתג ימי שישי - כולל/לא כולל שישי בספירה
+- אי-ספירת שבתות
+- הצגת תאריך היום ותאריך תחילת החופש
+- הודעה דינמית: 'עוד X ימי לימודים עד החופש הגדול!'
+
+## Target Audience
+- תלמידי בית ספר בישראל
+- תלמידי בית ספר
+- הורים לתלמידים
+
+## Industry
+education / tools for students
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b15dba37.zappy5.app/sitemap.xml
+- Robots: https://-b15dba37.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b15dba37.zappy5.app/llms-full.txt
